@@ -1,6 +1,6 @@
 import React from 'react'
 import something from './components/Images';
-import Navbar from './components/navbar'
+import Navbar from './components/navbar';
 
 const App = () => {
   return (
