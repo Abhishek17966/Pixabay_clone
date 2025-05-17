@@ -1,5 +1,5 @@
 import React from 'react'
-import Images from './components/images'
+import something from './components/Images';
 import Navbar from './components/navbar'
 
 const App = () => {
